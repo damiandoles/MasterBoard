@@ -217,10 +217,6 @@ Variation1=Designator=C6|UniqueId=\LNVIZCSV|Kind=1|AlternatePart=
 Variation2=Designator=C35|UniqueId=\VFRISHZB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for WeatherStationMain\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=.revision
 Value=1.0
